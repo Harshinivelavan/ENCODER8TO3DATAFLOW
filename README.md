@@ -66,9 +66,9 @@ endmodule
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by:V.Patrick alex emmanuel
+Developed by:V.Harshini
 
-RegisterNumber: 24900019
+RegisterNumber: 24010419
 */
 ```
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
@@ -82,7 +82,7 @@ RegisterNumber: 24900019
 
 **RESULTS**
 
-sucessfully implemented  Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functionality using their functional tables
+Sucessfully implemented  Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functionality using their functional tables
 
 
 
